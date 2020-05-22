@@ -1,6 +1,5 @@
 /*----------------------------
-  ;    KARNAM DILEEP KUMAR   ;
-  ;      201002092           ;
+  ;    K V S Krishna Teja  ;
   ;.........................*/
 //History can be stored upto 1000 commands (can be changed if needed)
 //pids of user generated commands are set parent id
